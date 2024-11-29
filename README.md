@@ -208,3 +208,4 @@ Emoji:
 :mask:
 
 662115049 Supawit Promma
+662115050 Sattaya Mingsanthia
